@@ -1,0 +1,19 @@
+{
+  "name": "vertu-wallboard-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "twilio": "^3.75.1"
+  }
+}
